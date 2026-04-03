@@ -1,2 +1,2 @@
-# Proyecto-4-G
-sistema de recursos humanos 
+Evidencias Vision
+Evidencias de vision artificial 
